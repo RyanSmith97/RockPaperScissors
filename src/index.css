@@ -1,0 +1,48 @@
+.choice{
+    width: 200px;
+    height: 200px;
+    border: 2px solid;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.vs{
+    padding:25px;
+}
+
+.row {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+  }
+
+.column{
+    flex-direction: column;
+}
+
+h1{
+    text-align: center;
+}
+
+.btn{  
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.result{
+    padding: 20px;
+    text-align: center;
+}
+.center{
+    text-align: center;
+}
+button{
+    width: 100px;
+    height: 40px;
+    border: 2px solid;
+}
+
