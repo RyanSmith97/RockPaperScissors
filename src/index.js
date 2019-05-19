@@ -121,7 +121,7 @@ class Game extends React.Component{
                         </div>
                     </div>
 
-                    <div className="vs">
+                    <div className="vs column">
                         vs
                     </div>
 
