@@ -17,3 +17,5 @@ Alternatively, to run the app locally:
  ```
  
  The app will then be running at [localhost:3000](http://localhost:3000)
+
+Email: ryanjsmith0@gmail.com
